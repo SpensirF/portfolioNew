@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/first project/one.png",
+            "title": "Winston (The Game)",
+            "description": "Unity, C#",
+            "url": "https://github.com/SpensirF/Winston"
+        },
+        {
+            "cover": "/portfolio/second project/two.png",
+            "title": "Vent Tell Later",
+            "description": " HTML, CSS, Python, MySQL, Flask, Bcrypt, Calendly API",
+            "url": "https://github.com/SpensirF/Vent_Tell_Later"
+        },
+        {
+            "cover": "/portfolio/third project/three.png",
+            "title": "Laravel Crud api",
+            "description": "Laravel, PHP, Blade,MySQL, VueJS, Vue-Bootstrap, Axios",
+            "url": "https://github.com/SpensirF/new-crud-app"
+        },
+        {
+            "cover": "/portfolio/fourth project/four.png",
+            "title": "Wedding Planner",
+            "description": "C#, .Net,  LINQ, MySQL, Validation",
+            "url": "https://github.com/SpensirF/c_sharp/tree/master/WeddingPlanner"
+        }
+    ]
+}
